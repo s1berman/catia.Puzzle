@@ -1,7 +1,7 @@
 # catia.Puzzle
 made in Catia
 
-purpose: create spatial 3D puzzle comfortable LEGO, is dedicated to the family <br>
+purpose: create spatial 3D puzzle comfortable LEGO, is dedicated to the family. <br>
 producted by 3D printing.
 
 
